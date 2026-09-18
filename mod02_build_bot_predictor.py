@@ -19,8 +19,3 @@ def train_model(X, y, seed=seed):
     )
     model.fit(X, y)
     return model
-
-
-ijdujwe 9wejwuwe iiwjucweu we ejwijw cwi joj
-
-wee
